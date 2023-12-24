@@ -2,4 +2,4 @@ c = int(input())
 a = []
 for b in range (c):
 	a.append(int(input()))
-print(max(a))
+print(min(a))

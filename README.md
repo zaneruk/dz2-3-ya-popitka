@@ -1,1 +1,1 @@
-"max.txt finds max element in the array"  
+"max.txt finds min element in the array"  
